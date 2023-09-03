@@ -82,7 +82,7 @@ box-shadow: none;
     overflow: hidden;
 }
 .testi .testi_container .item .item_img img{
-    width: 100%;
+    width: 50%;
     height: 250px;
     border-radius: 50%; 
 }
